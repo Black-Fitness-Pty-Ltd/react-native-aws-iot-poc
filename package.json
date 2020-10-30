@@ -8,15 +8,37 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "aws-iot-device-sdk": "^2.2.6",
+    "buffer": "^5.7.0",
+    "case": "^1.6.3",
+    "events": "^3.2.0",
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
+    "flat": "^5.0.2",
+    "mem": "^8.0.0",
+    "moment": "^2.29.1",
+    "null": "^2.0.0",
+    "object-hash": "^2.0.3",
+    "process": "^0.11.10",
+    "query-string": "^6.13.6",
+    "ramda": "^0.27.1",
+    "ramda-adjunct": "^2.28.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "url": "^0.11.0",
+    "util": "^0.12.3",
+    "yup": "^0.29.3"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "~7.9.0",
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5"
   },
   "private": true
 }
